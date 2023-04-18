@@ -30,3 +30,8 @@ The Fab region (Fragment, Antigen Binding region) is composed of one constant an
 
 #### Constant Regions
 The remaining part of the antibody, namely the Fc region, does not play a role in binding the antigen, but rather is responsible for modulating the immune systems response to the formation of an antibody-antigen complex. The Fragment Crystallizable (Fc) region is composed of two heavy chain constant regions that are isotype specific. [11] Antibodies are glycoproteins because of glycosylation at conserved positions in their Fc regions. This glycosylation is a critical component determing the rate of antibody clearance form the body.[12] Once an antibody binds to an antigen, the Fc region binds to Fc receptors, among other proteins, to mediate a host of different physiological responses ranging from oposonization, to degranulation of mast cells, to the release of cytokines and cytotoxic molecules, etc. resulting in the destruction of the pathogen. [13] Depending on the class of antibody, as dictated by the identity of the Fc region, the antibody half-life and distribution throughout the body varies. Further, since Fc receptors are antibody isotype specific, the type of immune response is dependent on the type of Fc region on the immunoglobulin, allowing for different immune responses to the same pathogen if necessary
+
+#### Types of Antibodies
+1. Monoclonal: Are produced by B cells and specifically target antigens
+2. BipHasic: Bonds with different types of antigens
+3. Humanized: cancer and auto immuno syndrome.
