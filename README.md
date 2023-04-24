@@ -14,6 +14,8 @@ Antibodies, also known as Immunoglobulins (Ig) are gamma globulin proteins, prim
 
 When a foreign antigen binds to a B-lymphocyte (B-cell), it activates the B-cell, and upon stimulation by helper T-cells, undergoes clonal proliferation and B-cell maturation into antibody forming plasma cells. Each plasma cell is programmed to make an antibody of a single specificity, which it releases into the blood.
 
+Antibody is a part of the host cell's defense. It's made by a certain type of white blood cell that's called a B cell. The structure of the antibody consists of two light chains and two heavy chains, and at the very tip of the antibody is a hypervariable region, and this hypervariable region allows the antibody to make different types of antibodies that will respond to all of the antigens that will assault the body. An antigen is anything that is foreign to the human body. It can be a virus, it can be a bacteria, and in some cases your own body will appear as foreign. And so you can have in certain instances where your own body will make antibodies against parts that are part of you
+
 #### Structure
 The basic functional unit of an antibody is an immunoglobulin monomer, but antibodies secreted from plasma cells are typically dimeric with occasional higher order structures. Typical secreted antibodies have a basic four-peptide structure of two identical heavy chains and two identical light chains joined together by interchain disulfide bonds, forming a “Y” shaped molecule.
 
