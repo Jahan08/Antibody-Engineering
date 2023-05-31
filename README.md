@@ -60,3 +60,9 @@ Vernier zone residues are 30 residues in the paratope that affect CDR conformati
 found that there are major thermodynamic consequences to mutations of Vernier Zone Residues - indicating both the role they play in antibody-antigen binding and the risk
 associated with mutating them. In general, CDR grafting with retained Vernier Zone residues has been successful, with the most popular example being Herceptin.
 
+Vernier zone residues are located close to the hypervariable regions (HVRs), while CSRs are located further away. This means that vernier zone residues can have a more direct effect on the binding of the antibody to the antigen, while CSRs have a more indirect effect.
+
+Vernier zone residues are also more conserved in sequence than CSRs. This means that vernier zone residues are more likely to be found in the same position in the three-dimensional structure of antibodies, while CSRs are more likely to vary in position.
+
+Overall, vernier zone residues and CSRs are both important for the specificity and affinity of the antibody-antigen interaction. However, there are some key differences between the two that can affect their role in antibody function.
+
