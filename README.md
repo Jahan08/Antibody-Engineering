@@ -56,4 +56,7 @@ Antibody affinity: Vernier zone residues can contribute to the affinity of an an
 Antibody specificity: Vernier zone residues can contribute to the specificity of an antibody for its antigen by helping to position the HVRs in the correct orientation for binding.
 Antibody diversity: Vernier zone residues are relatively conserved in sequence, while the HVRs are highly variable. This diversity is important because it allows antibodies to bind to a wide variety of antigens.
 
+Vernier zone residues are 30 residues in the paratope that affect CDR conformations - 16 residues in the heavy variable region and 14 in the light variable region.. A 2008 paper
+found that there are major thermodynamic consequences to mutations of Vernier Zone Residues - indicating both the role they play in antibody-antigen binding and the risk
+associated with mutating them. In general, CDR grafting with retained Vernier Zone residues has been successful, with the most popular example being Herceptin.
 
