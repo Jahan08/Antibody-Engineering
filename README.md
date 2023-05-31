@@ -42,6 +42,8 @@ cosolvents and chemical modifications all contribute to the protein-protein inte
 
 Reversible or irreversible aggregate formation in the native (folded) or non-native (unfolded, denatured) conformations are the main consequences of mAb self associations in solution that may also lead to immunosensitivity after parenteral administration. The non-native (conformational) aggregation pathway occurs when unfolded or partially denatured intermediates form oligomers to shield exposed hydrophobic areas from water. The native state association occurs as a result of hydrophobic or electrostatic surface properties of the protein. Self-association in the native state is often reversible but may become irreversible if the associated proteins undergo a conformational change
 
+### Framework Region of Antibody
 
+Antibodies are composed of four polypeptides– two heavy chains and two light chains joined to form a "Y" shaped molecule. The variable region contained 110-130 amino acids, offers the antibody its specificity for binding antigen. This region is further divided into two regions: hypervariable (HV) and framework (FR) regions. Three hypervariable regions- HV 1, 2 and 3 exist in light and heavy chains. Four FR regions separate the HV regions, and they have relatively more stable amino acids sequences. The FR regions generate a beta-sheet structure which plays as a scaffold to hold the HV regions in position to contact antigen. Besides, the FR regions are highly conserved, with most of the variability occurring in the HV regions, also called complementarity-determining regions (CDRs).
 
 
