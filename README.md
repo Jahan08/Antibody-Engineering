@@ -36,4 +36,12 @@ The remaining part of the antibody, namely the Fc region, does not play a role i
 #### Humanized antibody
 Humanized antibodies are antibodies from non-human species whose protein sequences have been modified to increase their similarity to antibody variants produced naturally in humans. The process of "humanization" is usually applied to monoclonal antibodies developed for administration to humans (for example, antibodies developed as anti-cancer drugs).Humanized antibodies are distinct from chimeric antibodies. The latter also have their protein sequences made more similar to human antibodies, but carry a larger stretch of non-human protein. The International Nonproprietary Names of humanized antibodies end in -zumab, as in omalizumab (see Nomenclature of monoclonal antibodies).
 
+#### Conformation and Self-Association of a Concentrated Monoclonal Antibody
+Therapeutic mAbs interrupt, inhibit or augment multistep disease pathways through the antigen recognition mechanism. The amino acid sequence, complementarity determining region (CDR), loop size,
+cosolvents and chemical modifications all contribute to the protein-protein interactions. Monoclonal antibodies (mAbs) represent the largest class of therapeutic proteins developed and marketed for the treatment of a wide range of serious illnesses. Often, the mAb based therapeutics are formulated at concentrations ≥ 100 mg/mL to limit the volume for subcutaneous delivery to patients. Achieving stable concentrated formulations for therapeutic proteins is a persistent technical challenge for the biopharmaceutical industry. A thorough understanding of candidate mAb conformation in solution is essential, early in development, to assess potential liabilities such as aggregation tendency, manufacturability and formulation strategy.
+
+Reversible or irreversible aggregate formation in the native (folded) or non-native (unfolded, denatured) conformations are the main consequences of mAb self associations in solution that may also lead to immunosensitivity after parenteral administration. The non-native (conformational) aggregation pathway occurs when unfolded or partially denatured intermediates form oligomers to shield exposed hydrophobic areas from water. The native state association occurs as a result of hydrophobic or electrostatic surface properties of the protein. Self-association in the native state is often reversible but may become irreversible if the associated proteins undergo a conformational change
+
+
+
 
