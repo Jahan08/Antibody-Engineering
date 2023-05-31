@@ -46,4 +46,14 @@ Reversible or irreversible aggregate formation in the native (folded) or non-nat
 
 Antibodies are composed of four polypeptides– two heavy chains and two light chains joined to form a "Y" shaped molecule. The variable region contained 110-130 amino acids, offers the antibody its specificity for binding antigen. This region is further divided into two regions: hypervariable (HV) and framework (FR) regions. Three hypervariable regions- HV 1, 2 and 3 exist in light and heavy chains. Four FR regions separate the HV regions, and they have relatively more stable amino acids sequences. The FR regions generate a beta-sheet structure which plays as a scaffold to hold the HV regions in position to contact antigen. Besides, the FR regions are highly conserved, with most of the variability occurring in the HV regions, also called complementarity-determining regions (CDRs).
 
+### Vernier zone residues/canonical structural residues
+
+are amino acids in the framework regions of an antibody variable domain that are located close to the hypervariable regions (HVRs). They are called Vernier because they act like the vernier scale on a micrometer, providing additional precision to the binding of the antibody to its antigen.
+
+Vernier zone residues are important for the following aspects of antibody function:
+
+Antibody affinity: Vernier zone residues can contribute to the affinity of an antibody for its antigen by providing additional contact points between the antibody and the antigen.
+Antibody specificity: Vernier zone residues can contribute to the specificity of an antibody for its antigen by helping to position the HVRs in the correct orientation for binding.
+Antibody diversity: Vernier zone residues are relatively conserved in sequence, while the HVRs are highly variable. This diversity is important because it allows antibodies to bind to a wide variety of antigens.
+
 
